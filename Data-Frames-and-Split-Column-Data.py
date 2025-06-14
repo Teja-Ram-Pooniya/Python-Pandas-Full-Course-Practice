@@ -34,7 +34,7 @@ filtered_by_age = df[df['Age'] > 35]
 print(filtered_by_age)
 print("=================================================")
 
-filtered_by_name = df[df['First_Name'].str.contains("Teja", case=False, na=False)]
+filtered_by_name = df[df['First_Name'].str.contains("Ashok", case=False, na=False)]
 print(filtered_by_name)
 print("=================================================")
 
