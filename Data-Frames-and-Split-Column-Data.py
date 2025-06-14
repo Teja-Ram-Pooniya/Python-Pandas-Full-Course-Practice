@@ -4,9 +4,9 @@ import pandas as pd
 df = pd.DataFrame(
     {
          "Name": [
-                 "Teja, Mr. Teja Ram Pooniya",
-                 "Budharam, Mr. Budha Ram Pooniya",
-                 "Moti, Mr. Moti Ram Pooniya"
+                 "Ashok, Mr. Ashok Kumar Khoja",
+                 "Tarun, Mr. Tarun Kumar Dadich",
+                 "Yagyadut, Mr. Yagyadut Dadich"
                  ],
          "Age": [36, 56, 33],
          "Sex": ["male", "male", "male"],
